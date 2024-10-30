@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    min-height: 5000px;
+    background-color: #eee;
+}
+.srcoller{
+position:fixed;
+background-color:#0075ff;
+left:0;
+top:0;
+z-index: 9999999;
+width:0;
+height: 5px;
+}
